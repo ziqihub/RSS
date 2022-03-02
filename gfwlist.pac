@@ -1,7 +1,7 @@
 /**
- * genpac 2.1.0 https://github.com/JinnLynn/genpac
+ * genpac 2.1.0 https://github.com/ziqihub/RSS
  */
-var proxy = 'SOCKS5 127.0.0.1:1080';
+var proxy = 'SOCKS5 192.168.0.120:10808';
 var rules = [
     [
         [],
